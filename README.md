@@ -21,7 +21,8 @@ Before you can run this application, you will need:
    ```bash
    git clone https://github.com/RocketGod-git/stable-diffusion-3-gui.git
    ```
-2. Navigate to the cloned directory and run the `sd3.bat` script to set up your environment and dependencies:
+2. Edit `sd3.py` and swap in your Hugging Face token in the designated area.
+3. Navigate to the cloned directory and run the `sd3.bat` script to set up your environment and dependencies:
    ```bash
    cd stable-diffusion-3-gui
    sd3.bat
