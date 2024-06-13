@@ -49,5 +49,5 @@ This project is open source and available under the [License](LICENSE).
 ## Disclaimer
 
 This project is not affiliated with Stability AI or Hugging Face. It is a community-driven project.
-```
+
 ![RocketGod](https://github.com/RocketGod-git/Flipper_Zero/assets/57732082/f5d67cfd-585d-4b23-905f-37151e3d6a7d)
