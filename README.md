@@ -50,4 +50,7 @@ This project is open source and available under the [License](LICENSE).
 
 This project is not affiliated with Stability AI or Hugging Face. It is a community-driven project.
 
+![image](https://github.com/RocketGod-git/stable-diffusion-3-gui/assets/57732082/8e8de9f5-7fb5-4ae1-ac0b-641006b18ac1)
+
+
 ![RocketGod](https://github.com/RocketGod-git/Flipper_Zero/assets/57732082/f5d67cfd-585d-4b23-905f-37151e3d6a7d)
